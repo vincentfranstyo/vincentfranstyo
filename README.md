@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hola, I'm Vincent Franstyo</h1>
+<h1 align="center">👋 Hi, I'm Vincent Franstyo</h1>
 
 <h3 align="center">Software Engineer</h3>
 <img src="https://komarev.com/ghpvc/?username=vincentfranstyo&theme=oldie"/>
