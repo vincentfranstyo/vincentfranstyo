@@ -60,6 +60,5 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vincentfranstyo&layout=compact&theme=algolia"/>
 </a>
 </p>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincentfranstyo&layout=compact&theme=dark"/>
 
 
