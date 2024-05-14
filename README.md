@@ -1,4 +1,5 @@
-![LinkedIn](https://img.shields.io/badge/LinkedIn-#0A66C2?style=for-the-badge&logo=LinkedIN&logoColor=#0A66C2)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-#0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=#0A66C2)
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 I'm Vincent Franstyo, a Information System and Technology Undergraduate Student at Bandung Institute of Technology, I love software engineering and especially Back-end Development. However, I'm also accustomed to doing frontend development and fullstack development. I am currently learning basic of data analytics to acquire a new knowledge to enable me to be a machine learning engineer.
 
 ## Github Statistics
