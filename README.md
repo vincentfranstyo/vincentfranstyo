@@ -16,7 +16,8 @@
 <a href="http://www.medium.com/@Effyau" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676621629/ease-prof/social/medium-icon-svgrepo-com_wwdm1p.svg" height="40" width="40" alt=medium/>
 
 <h2>Skills</h2>
-<h3>Core</h3>
+
+<h3><u>Core</u></h3>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609803/ease-prof/programming%20languages/c_s78hfk.svg" height="40" width="40" alt=C/>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609803/ease-prof/programming%20languages/c_bvvkhv.svg" height="40" width="40" alt=Cpp/>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609803/ease-prof/programming%20languages/c_sfsrpm.svg" height="40" width="40" alt=Chash/>
